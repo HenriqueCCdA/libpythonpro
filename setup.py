@@ -95,7 +95,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "libpythonpro-hcca"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools."
 AUTHOR = "Henrique C. C. de Andrade"
 AUTHOR_EMAIL = "henrique.ccda@gmail.com"
