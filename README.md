@@ -9,9 +9,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://app.travis-ci.com/HenriqueCCdA/libpythonpro.svg?branch=main)](https://app.travis-ci.com/HenriqueCCdA/libpythonpro)
 [![Updates](https://pyup.io/repos/github/HenriqueCCdA/libpythonpro/shield.svg)](https://pyup.io/repos/github/HenriqueCCdA/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/HenriqueCCdA/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/HenriqueCCdA/libpythonpro/)
-<!---
-[![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
--->
+[![codecov](https://codecov.io/gh/HenriqueCCdA/libpythonpro/branch/main/graph/badge.svg?token=GCVY4L3UJL)](https://codecov.io/gh/HenriqueCCdA/libpythonpro)
 
 Suportada versão 3 de Python
 
