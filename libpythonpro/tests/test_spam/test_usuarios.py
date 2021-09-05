@@ -4,7 +4,7 @@ from libpythonpro.spam.db import Conexao
 from libpythonpro.spam.modelos import Usuario
 
 
-@pytest.fixture()
+@pytest.fixture(scope='module')
 def conexao():
     conexao_obj = Conexao()
     yield conexao_obj
