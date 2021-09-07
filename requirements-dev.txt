@@ -18,4 +18,4 @@ pytest-mock==3.6.1
 #
 -r requirements.txt
 
-setuptools~=57.4.0
+setuptools==58.0.1
